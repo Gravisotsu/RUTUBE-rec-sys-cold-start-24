@@ -5,4 +5,4 @@ research1.ipynb - EDA
 
 models.ipynb - models
 
-www.py - streamlit
+app.py - streamlit
