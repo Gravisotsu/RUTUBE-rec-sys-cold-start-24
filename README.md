@@ -3,6 +3,6 @@
 
 research1.ipynb - EDA
 
-models.ipynb - models
+Untitled(2).ipynb - models(sic!)
 
 app.py - streamlit
